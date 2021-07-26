@@ -1,3 +1,3 @@
 # CrossyRoadClone
 
-❮img src="Images/CrossyRoadGameplay1.png"❯
+![](Images/CrossyRoadGameplay1.png)
